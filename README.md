@@ -26,8 +26,5 @@ This is a basic HTML form template for collecting user information.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Files
 
-- [HTML File](index.html)
-- [Favicon](myWebsite/Images/favicon.PNG)
 
